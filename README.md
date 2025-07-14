@@ -1,4 +1,10 @@
-# Cluely Copilot
+
+
+
+
+
+
+# Cluely Copilot (1 to 1 recreation of cluely.com)
 
 An invisible AI co-pilot that reads your screen and listens to conversations to provide intelligent, context-aware assistance during meetings, interviews, and technical discussions.
 
