@@ -1,12 +1,32 @@
-
-
-
-
-
-
 # Cluely Copilot (1 to 1 recreation of cluely.com)
 
 An invisible AI co-pilot that reads your screen and listens to conversations to provide intelligent, context-aware assistance during meetings, interviews, and technical discussions.
+
+## 📖 **The Story Behind This Project**
+
+This project was born from my research into [cluely.com](https://cluely.com) and their founder Roy Lee. After discovering that Cluely's system prompts for both personal use and enterprise had been leaked, I realized their application was essentially a glorified ChatGPT wrapper with a sophisticated system prompt.
+
+During my research on Roy Lee, I discovered an interesting connection: he was reportedly kicked out of Columbia University for creating an "Interview Coder" application - essentially the same concept as Cluely, but specifically designed to help cheat on coding interviews. This revelation led me to search for the original Interview Coder project.
+
+To my surprise, I found that Interview Coder had been an open-source, free-to-use project months ago before it was taken down. I downloaded the source code and decided to recreate Cluely based directly on that foundation, maintaining the free-to-use philosophy while requiring users to provide their own OpenAI API keys.
+
+This project is a direct recreation of Cluely's functionality, built on the ethical foundation of the original Interview Coder project, and enhanced with modern AI capabilities.
+
+## ⚠️ **IMPORTANT DISCLAIMER**
+
+**🚨 THIS APPLICATION IS FOR FUN AND EDUCATIONAL PURPOSES ONLY! 🚨**
+
+This project was created purely for fun, learning, and as a technical exercise. It is **NOT** intended for:
+
+- ❌ Cheating on interviews, exams, or assessments
+- ❌ Academic dishonesty
+- ❌ Professional misconduct
+- ❌ Any form of deception or fraud
+- ❌ Commercial use or profit
+
+**Please use this application responsibly and ethically.** The developers are not responsible for any misuse of this software. This is simply a fun weekend project to explore AI capabilities and recreate interesting technology.
+
+---
 
 ## 🎯 **What is Cluely Copilot?**
 
